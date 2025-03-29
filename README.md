@@ -15,9 +15,8 @@
     </p>
 
 
-## Tools
 
-## Tools
+### Tools
 <div>
     <img src="https://img.shields.io/badge/Zabbix-13243A?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix Logo" />
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark Logo" />
@@ -30,13 +29,13 @@
     <img src="https://img.shields.io/badge/Sipcapture%20Homer-2296F3?style=for-the-badge&logo=homer&logoColor=white" alt="Sipcapture Homer Logo" />
 </div>
 
-## Endpoints
+### Endpoints
 <div>
     <img src="https://img.shields.io/badge/Wazuh-1A2D38?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh Logo" />
     <img src="https://img.shields.io/badge/FortiEDR-003B49?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiEDR Logo" />
 </div>
 
-## SIEM
+### SIEM
 <div>
     <img src="https://img.shields.io/badge/Wazuh-1A2D38?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh Logo" />
     <img src="https://img.shields.io/badge/Splunk-0064B1?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Logo" />
