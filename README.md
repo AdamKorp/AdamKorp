@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Sipcapture%20Homer-2296F3?style=for-the-badge&logo=homer&logoColor=white" alt="Sipcapture Homer Logo" />
 </div>
 
-### Endpoints
+### EDR
 <div>
     <img src="https://img.shields.io/badge/Wazuh-1A2D38?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh Logo" />
     <img src="https://img.shields.io/badge/FortiEDR-003B49?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiEDR Logo" />
