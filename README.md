@@ -51,6 +51,9 @@
     <img src="https://img.shields.io/badge/Splunk_Core_User-00ADEF?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Core User Certified Logo" />
     <img src="https://img.shields.io/badge/MTCNA-FF6600?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MTCNA Logo" />
     <img src="https://img.shields.io/badge/ISC2_Cybersecurity-0073b1?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 Cybersecurity Logo" />
+    <img src="https://img.shields.io/badge/eEDA-000000?style=for-the-badge&logo=data&logoColor=white" alt="eEDA Logo" />
+
+
 </div>
 
 
